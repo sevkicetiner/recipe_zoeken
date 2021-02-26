@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rotate android:fromDegrees="90"
+    android:toDegrees="90"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+<shape >
+    <gradient
+        android:startColor="#919191"
+        android:endColor="@android:color/transparent"
+        android:angle="0"
+        android:type="linear"/>
+
+</shape>
+</rotate>
